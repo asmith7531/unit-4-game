@@ -1,0 +1,52 @@
+
+body{
+  
+  background: lightblue;
+  z-index: -1;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.title {
+  background: orange;
+  color:white;
+  font-size:32px;
+  padding:10px;
+  z-index: 1;
+  margin:25px;
+  margin-right:700px;
+  
+  padding-left: 100px;
+  position: relative;
+  
+}
+
+.instructions{
+  background: moccasin;
+  font-size: 16px;
+  line-height: 32px;
+  padding: 20px;
+  margin: 25px;
+  margin-right:500px;
+  
+  position: relative;
+}
+
+.scoreBoard{
+  background-color: blue;
+  padding: 20px;
+  margin:25px;
+  margin-right:900px;
+  position: relative;
+  font-size: 24px;
+  
+}
+
+.yourScore{
+  background-color: green;
+  margin:25px;
+  margin-right: 900px;
+  position: relative;
+  font-size: 24px;
+  padding: 20px;
+}
