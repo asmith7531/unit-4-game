@@ -7,6 +7,23 @@ body{
   line-height: 32px;
 }
 
+.crystal  {
+  display: flex;
+  justify-content: flex-start;
+  
+ 
+}
+
+.crystal1, .crystal2, .crystal3, .crystal4  {
+  border:3px solid blue;
+  height:200px;
+  width: 200px;
+  justify-content: space-between;
+  align-items: center;
+  background-image: 
+}
+
+
 .title {
   background: orange;
   color:white;
@@ -42,7 +59,7 @@ body{
   
 }
 
-.yourScore{
+.score{
   background-color: green;
   margin:25px;
   margin-right: 900px;
